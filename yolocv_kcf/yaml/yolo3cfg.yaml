@@ -1,3 +1,0 @@
-modelConfig: /home/xx/andyoyo/usv_ImagePro/src/yolocv_kcf/data/yolo3cfg/yolov3.cfg
-modelWeights: /home/xx/andyoyo/usv_ImagePro/src/yolocv_kcf/data/yolo3cfg/yolov3.weights
-modelNames: /home/xx/andyoyo/usv_ImagePro/src/yolocv_kcf/data/yolo3cfg/coco.names
