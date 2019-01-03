@@ -1,0 +1,8 @@
+prefix=/home/xx/andyoyo/usv_ImagePro/devel
+
+Name: chuan_control
+Description: Description of chuan_control
+Version: 0.0.0
+Cflags: -I/home/xx/andyoyo/usv_ImagePro/src/chuan_control/include
+Libs: -L/home/xx/andyoyo/usv_ImagePro/devel/lib 
+Requires: roscpp rospy std_msgs darknet_ros_msgs

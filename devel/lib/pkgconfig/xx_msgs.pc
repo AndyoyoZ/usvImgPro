@@ -1,0 +1,8 @@
+prefix=/home/xx/andyoyo/usv_ImagePro/devel
+
+Name: xx_msgs
+Description: Description of xx_msgs
+Version: 0.0.0
+Cflags: -I/home/xx/andyoyo/usv_ImagePro/devel/include
+Libs: -L/home/xx/andyoyo/usv_ImagePro/devel/lib -lxx_msgs
+Requires: message_generation roscpp std_msgs

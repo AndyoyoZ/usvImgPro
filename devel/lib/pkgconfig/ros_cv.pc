@@ -1,0 +1,8 @@
+prefix=/home/xx/andyoyo/usv_ImagePro/devel
+
+Name: ros_cv
+Description: Description of ros_cv
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/xx/andyoyo/usv_ImagePro/devel/lib 
+Requires: 

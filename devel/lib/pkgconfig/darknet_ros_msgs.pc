@@ -1,0 +1,8 @@
+prefix=/home/xx/andyoyo/usv_ImagePro/devel
+
+Name: darknet_ros_msgs
+Description: Description of darknet_ros_msgs
+Version: 1.1.3
+Cflags: -I/home/xx/andyoyo/usv_ImagePro/devel/include
+Libs: -L/home/xx/andyoyo/usv_ImagePro/devel/lib 
+Requires: actionlib_msgs geometry_msgs sensor_msgs message_runtime std_msgs

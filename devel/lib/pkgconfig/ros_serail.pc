@@ -1,0 +1,8 @@
+prefix=/home/xx/andyoyo/usv_ImagePro/devel
+
+Name: ros_serail
+Description: Description of ros_serail
+Version: 0.0.0
+Cflags: -I/home/xx/andyoyo/usv_ImagePro/src/ros_serail/include
+Libs: -L/home/xx/andyoyo/usv_ImagePro/devel/lib 
+Requires: roscpp rospy sensor_msgs std_msgs

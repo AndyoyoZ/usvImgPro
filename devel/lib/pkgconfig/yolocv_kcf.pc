@@ -1,0 +1,8 @@
+prefix=/home/xx/andyoyo/usv_ImagePro/devel
+
+Name: yolocv_kcf
+Description: Description of yolocv_kcf
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/xx/andyoyo/usv_ImagePro/devel/lib 
+Requires: cv_bridge image_transport roscpp sensor_msgs std_msgs
