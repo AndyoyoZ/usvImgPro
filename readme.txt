@@ -5,5 +5,6 @@
 　　　　　　　若失败，则通过发布　flag_cv_to_nav　交接控制权　
 运行方式：　直接在终端运行　runImgPro.sh　脚本文件即可，该脚本文件会调用 yolocv_kcf/launch/runImgPro.launch
 其他说明：　可以通过修改yolocv_kcf/launch/runImgPro.launch文件配置视频来源和yolo模型文件，yolo模型文件存放在yolocv_kcf/data目录下
+          由于本人系统装有多个版本的OpenCV，因此在各个包的CMakeLists.txt中指定了OpenCV路径，请编译前自行修改。
 　　　　　　
 
